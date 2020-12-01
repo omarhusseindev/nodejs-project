@@ -1,0 +1,19 @@
+{
+  "name": "nodejs-project",
+  "version": "1.0.0",
+  "description": "node js project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/omarhusseindev/nodejs-project.git"
+  },
+  "author": "Omar Hussein",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/omarhusseindev/nodejs-project/issues"
+  },
+  "homepage": "https://github.com/omarhusseindev/nodejs-project#readme"
+}
